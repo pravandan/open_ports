@@ -17,4 +17,4 @@ Python 3.6.3
 
 ## Authors
 
-* **Pravandan Chand** - *Initial work* - [PurpleBooth](https://linkedin.com/in/Pravandan)
+* **Pravandan Chand** - *Initial work* - [LinkedIn](https://linkedin.com/in/Pravandan)
