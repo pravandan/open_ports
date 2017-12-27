@@ -1,6 +1,6 @@
 # Open Ports
 
-A simple Python script to detemine the externally open ports of an IP
+A simple Python script to detemine the externally open ports of an IP, useful for some fun and before deploying to a server.
 
 ## Getting Started
 
